@@ -1,2 +1,2 @@
 A readme for alx-git
-an udate
+update readme
